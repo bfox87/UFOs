@@ -16,7 +16,7 @@ An initial website with her article and a table of UFO sightings has been create
 ![Website_Filters](https://github.com/bfox87/UFOs/blob/main/Screenshots/Website_Filters.PNG)
 
 - Users can narrow using anywhere from just one criteria/box all the way up to all five.
-- Just backspace or delete all the filter criteria to bring back the original table of all sightings.
+- Backspace or delete all the filter criteria to bring back the original table of all sightings.
 
 ## Summary:
 One clear drawback of this page is the requirement of exact text matches for the search filters. For example, a user looking for sightings in the city of "el cajon" might not know the exact spelling and want to just type "el c" and then hit enter. This unfortunately will not bring up any results as shown in the screenshot below.
